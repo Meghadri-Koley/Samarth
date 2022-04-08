@@ -1,3 +1,2 @@
 # Samarth
-
-<code>Still in the tryout phase</code>
+<a href="https://meghadri-koley.github.io/Samarth/">link</a>
