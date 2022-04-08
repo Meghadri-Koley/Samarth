@@ -1,2 +1,2 @@
 # Samarth
-<a href="https://meghadri-koley.github.io/Samarth/" traget="_balnk">link</a>
+<a href="https://meghadri-koley.github.io/Samarth/" target="_balnk">link</a>
